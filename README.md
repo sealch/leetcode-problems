@@ -1,2 +1,2 @@
 # leetcode-problems
-Algorithms leetcode problems solutions
+This is free to use leetcode problems solution made by me on js
