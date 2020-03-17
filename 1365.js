@@ -1,0 +1,1 @@
+let smallerNumbersThanCurrent = (nums) => nums.map(num => [...nums].sort((a, b) => a - b).indexOf(num));
